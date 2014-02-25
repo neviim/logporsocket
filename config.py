@@ -1,0 +1,4 @@
+DEVICE='eth1'
+SERVER='10.0.8.70'
+PORTA=13030
+

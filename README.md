@@ -1,4 +1,4 @@
 logporsocket
 ============
 
-Enviando um json log para um socket server
+Enviando um json log para um socket server.
